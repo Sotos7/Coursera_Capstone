@@ -1,0 +1,14 @@
+Title: Greek Restaurant in New York City (report)
+
+1. Introduction
+   We are going to present a guide on how to choose the best location in New York City to open a Greek Restaurant. Our targeted 
+audience is obviously people who want to invest money on a restaurant business in New York City and have a passion with Greek food 
+(maybe Greek Americans!).
+   The choice will take into account the number of Greek restaurants (positive indicator) and the number of general type restaurants 
+(negative indicator) in each New York City neighborhood. For example if there exists a neighborhood where one out of ten restaurants 
+are Greek then people in this area seem to be very intrested in Greek food and its a good place to open a business (that is the basic 
+idea but keep in mind that we need to consider some observations which do not act well in our model). 
+   In the first section we will introduce our data and take it in the desired form, so we can easily work with it later. In the second 
+section we will analyse the data and visualize it (maps). After that we will built our model (the one which will predict how suitable 
+a neighborhood is to open a Greek restaurant business) using machine learning techniques and finally we will visualize the clusters.
+   More on the second part of the assignment...

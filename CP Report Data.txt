@@ -1,0 +1,10 @@
+Title: Greek Restaurant in New York City (report)
+
+2. Data Section
+   The data needed for this project is New York neighborhoods data which can be found in this link: 
+https://geo.nyu.edu/catalog/nyu_2451_34572  , and Foursquare data for the venues (restaurants) which we will get, using requests 
+with Foursquare API. 
+   Both data sets are crucial even for the definition of our problem. The neighborhoods data will be used mainly for visualization 
+(New York maps) and the Foursquare venue data for training the model and cluster the neighborhoods based on the suitability of opening 
+a Greek restaurant.
+   More in the second part of the assignment...
